@@ -1,0 +1,5 @@
+{
+  "name": "AI Visual Infographic Generator",
+  "description": "A web application that uses Gemini AI to transform text into beautiful, editable infographics. Users can generate, view, and modify visual content through a chat-based interface, with all creations saved locally.",
+  "requestFramePermissions": []
+}
